@@ -1,3 +1,4 @@
+# 수정된것 바로 pull request 되는 확인해보자
 import random
 
 #중복 없느 1~100 숫자가 들어간 랜덤 박스 리스트 생성
